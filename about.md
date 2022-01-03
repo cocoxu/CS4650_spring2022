@@ -1,0 +1,87 @@
+---
+layout: page
+title: About
+description: >-
+    Course policies and information.
+---
+
+# About
+{:.no_toc}
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+## Lecture
+Mondays, Wednesdays 3:30-4:45pm
+
+## Textbook(s)
+
+There are two excellent NLP textbooks that are freely available online. Readings will be assigned from both. There is value in seeing multiple perspectives on the same material. If a concept you encounter seems confusing at first, try reading about it in the other book to get a different perspective.
+
+- [Dan Jurafsky and James H. Martin. Speech and Language Processing (3rd Edition)](https://web.stanford.edu/~jurafsky/slp3/)
+- [Jacob Eisenstein Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+- There will be other assigned readings as well.
+
+Note that, while the textbooks are free, this class will incur a cost of $20-50 for course materials (i.e., GPU computing using Google [Colab](http://colab.research.google.com/)). 
+
+## Resources
+
+- [Piazza](https://piazza.com/gatech/spring2022/cs4650a)
+- [Gradescope](https://www.gradescope.com/courses/345683)
+
+## Prerequisites
+
+This is an advanced-level AI class that covers deep learning and other machine learning models in the context of processing text data. The official prerequisites of this course are CS 3510/3511, which are the minimal requirements to be allowed to take this course. To succeed in this class, you will need a strong math and programming background that can sufficiently make you feel at ease in the machine learning class (CS 4641). The course assumes mastery of mathematical concepts in probability, linear algebra, and multivariable calculus. You are strongly recommended to take CS 4641 and (Math 2550 or Math 2551 or Math 2561 or Math 2401 or Math 24X1 or 2X51) before taking this class (the semester before, not in the same semester), otherwise you should be prepared for a very heavy workload. You should be comfortable working on medium-to-large software projects in Python, learning and using new libraries (in particular, PyTorch) independently very quickly, and debugging code when there is no clear error messages.  Nearly all programming assignments will be in PyTorch for this class, working extensively with vectors/matrices/tensors. If you have not used PyTorch before but plan to take this class, we recommend start learning it now as you read this message. 
+
+There will be a math background test (due in the 1st week) and a programming homework (due in the 2nd week) at the beginning of the semester. If you have difficulty to handle them, you should expect a lot of extra work and challenges to catch up -- we strongly suggest you wait and take this class in a later semester. 
+
+
+## Assignments / Grading
+
+Graded work will include both written and programming assignments. Assignments should be submitted to Gradescope by 11:59pm on the day they are due. Please email your homework to the instructor in case of any technical issues with submission. We will not accept any regrading requests for failure/mistake in following submission instructions.
+
+Each student will have 3 flexible days to turn in late homework throughout the semester. The late days will be applied to homework assignments in the order of submission. As an example, you could turn in the first homework 2 days late and the second homework 1 day late without any penalty. After that you will loose 20% for each day an assignment is handed in late. These 3 late days are meant for personal emergencies; if you use late days for non-emergency situations but later encounter emergencies in the semester, you will not be given extra late days. No late days will be allowed for the final project, due to the tight deadline for posting the final grades as required by the university. 
+
+
+All homework will be rescaled proportionally into the final numerical grade, which will then be mapped to letter grade according to a cutoff based on the overall class grade distribution. The standard cutoff is 90/80/70% for A/B/C, but we may curve up (never down), i.e., use lower cutoffs than these. The cutoffs will only be determined after we grade the final project at the end of the semester.
+
+
+
+### Programming Assignments (Projects) - 40%
+
+We plan to assign four programming assignments that provide hands-on experience implementing algorithms discussed during lecture.  The assignments are in Python, and make use of [PyTorch](https://pytorch.org/) library.  These will require non-trivial computation to complete; we recommend using Google's [Colab](http://colab.research.google.com/) platform which provides easy and fast access to GPUs.  Completing these projects will require waiting for your models to train (this can range from about 30 minutes to hours depending on the efficiency of your implementation), so we strongly recommend starting work on these programming assignments well in advance of the deadline. If you start working on an assignment the day before it is due, it is unlikely you will be able to complete it on time.
+
+### Written Assignments (Problem Sets) - 20%
+
+The written assignments will mostly be mathematical/computational.  You can scan and upload your solution to Gradescope. Please write answers clearly, since we won't be able to provide credit for answers that we are not legible.
+
+### Midterm Exam - 15%
+
+The midterm will be similar in format to the written assignments (problem sets). We will be actively monitoring the situation of the pandemic, and decide accordingly to have the exame in-person or taken-home. 
+
+### Participation - 5%
+
+You will receive credit for asking and answering questions related to the homework on Piazza, engaging in discussion in class and generally for participating in the class. Be polite and respectful towards the TAs and other students in the class. 
+
+### Final Project - 20%
+
+The final project is an open-ended assignment, with the goal of gaining experience applying the techniques presented in class to real-world datasets. Students should work in groups of 2-4. It is a good idea to discuss your planned project with the instructor to get feedback. A general guideline is that the final project should be roughly on par with the efforts needed for Project 3 (multiplied by the number of students in the group). The final project report should be 4 pages (including everything). The report should describe the problem you are solving, what data is being used, the proposed technique you are applying in addition to what baseline is used to compare against.
+
+The rubric for the final project:
+
+* Clarity (1-5) For the reasonably well-prepared reader, is it clear what was done and why? Is the report well-written and well structured?
+* Originality / Innovativeness (1-5) How original is the approach? Does this project break new ground in topic, methodology, or content? How exciting and innovative is the work that it describes?
+* Soundness / Correctness (1-5) First, is the technical approach sound and well-chosen? Second, can one trust the claims of the report – are they supported by proper experiments, proofs, or other argumentation?
+* Meaningful Comparison (1-5) Does the author make clear where the problems and methods sit with respect to existing literature? Are any experimental results meaningfully compared with the best prior approaches?
+* Substance (1-5) Does this project have enough substance, or would it benefit from more ideas or results?  Note that this question mainly concerns the amount of work; its quality is evaluated in other categories.
+* Overall (1-5) 
+
+
+## Academic Integrity
+
+Any assignment or exam that you hand in must be your own work (with the exception of the final group project). However, talking with others to better understand the material is strongly encouraged. Copying a solution or letting someone copy your solution (intentionally or accidentally) is considered cheating. Everything you hand in must be your own work. Code you hand in must be written by you, with the exception of any code provided as part of the assignment. Any collaboration during an exam is considered cheating. Any student who is caught cheating will be given a zero on the assignment and will be reported to the Office of Student Integrity. Please don't take a chance - if you are having trouble understanding the material, let us know and we will be happy to help.
