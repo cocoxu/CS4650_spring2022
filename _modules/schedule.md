@@ -76,7 +76,7 @@ TBA
   : [ELMo](https://www.aclweb.org/anthology/N18-1202.pdf) [BERT](https://www.aclweb.org/anthology/N19-1423.pdf)
 
 TBA
-: Pretrained Language Models (part 2) & Ethics
+: Pretrained Language Models (part 2) + Ethics
   : [BART](https://arxiv.org/pdf/1910.13461.pdf), [T5](https://arxiv.org/pdf/1910.10683.pdf) 
 
 TBA
