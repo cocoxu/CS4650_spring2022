@@ -20,10 +20,7 @@ seo:
 Georgia Institute of Technology
 
 - Instructor: [Wei Xu](https://cocoxu.github.io) 
-- [Piazza](https://piazza.com/gatech/spring2022/cs4650a) (announcements, questions, discussion)
-- [Gradescope](https://www.gradescope.com/courses/345683) (homework assignments, submission, and grading)
-- [Canvas](https://canvas.gatech.edu/) (only used for Bluejeans recordings and tracking late days)
-
+- Lecture: Mondays, Wednesdays 3:30-4:45pm
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
