@@ -2,11 +2,11 @@
 title: Schedule (subject to change as the term progresses)
 ---
 Jan 10
-: Course Introduction
+: [Course Introduction](https://cocoxu.github.io/CS4650_spring2022/slides/lec1-intro.pdf)
   : [Eisenstein Chapter 1](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Jan 12
-: Machine Learning
+: [Machine Learning](https://cocoxu.github.io/CS4650_spring2022/slides/lec2-ml.pdf)
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 Jan 13
@@ -16,7 +16,7 @@ Jan 17
 : no class - Labor Day
 
 Jan 19
-: Machine Learning 
+: [Machine Learning (cont')](https://cocoxu.github.io/CS4650_spring2022/slides/lec2-ml.pdf)
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
 Jan 20
