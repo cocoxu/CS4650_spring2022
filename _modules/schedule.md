@@ -13,13 +13,13 @@ Jan 13
 : **[Problem Set 0 due](https://cocoxu.github.io/CS4650_spring2022/slides/CS4650_Problem_Set0.pdf)**
 
 Jan 17
-: no class - Labor Day
+: no class - MLK Day
 
 Jan 19
 : [Machine Learning (cont')](https://cocoxu.github.io/CS4650_spring2022/slides/lec2-ml.pdf)
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
-Jan 20
+~~Jan 20~~ Jan 25
 : **[Project 0 due](https://colab.research.google.com/drive/1YEET5y0hqD3-XWDS4C_3uiktEUFN9LLd?usp=sharing)**
 
 TBA
