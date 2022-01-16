@@ -19,7 +19,7 @@ description: >-
 
 - [Piazza](https://piazza.com/gatech/spring2022/cs4650a) (announcements, questions, discussion)
 - [Gradescope](https://www.gradescope.com/courses/345683) (homework assignments, submission, and grading)
-- [Canvas](https://canvas.gatech.edu/)
+- [Canvas](https://canvas.gatech.edu/) (only for tracking late days)
 - [Tentative Course Schedule](https://docs.google.com/spreadsheets/d/1YJQVkr_j-k0zsgNZ0fYbNI6ECc8P5-3V-GuGbEy5GKQ/edit?usp=sharing)
 
 
