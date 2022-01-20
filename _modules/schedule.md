@@ -22,6 +22,9 @@ Jan 19
 Jan 25 ~~Jan 20~~
 : **[Project 0 due](https://colab.research.google.com/drive/1YEET5y0hqD3-XWDS4C_3uiktEUFN9LLd?usp=sharing)**
 
+Feb 3
+: **[Problem Set 1 due](https://github.com/cocoxu/CS4650_projects_sp2022/tree/master/Problem%20Set%201)**
+
 TBA
 : [Machine Learning - part 2](https://cocoxu.github.io/CS4650_spring2022/slides/lec3-mcc.pdf) 
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
