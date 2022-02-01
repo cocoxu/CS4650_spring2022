@@ -19,7 +19,7 @@ Jan 19
 : [Machine Learning - part 1 (cont')](https://cocoxu.github.io/CS4650_spring2022/slides/lec2-ml.pdf)
   : [Eisenstein 2.0-2.5, 4.1,4.3-4.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
 
-Jan 25 ~~Jan 20~~
+Jan 25 
 : **[Project 0 due](https://colab.research.google.com/drive/1YEET5y0hqD3-XWDS4C_3uiktEUFN9LLd?usp=sharing)**
 
 Jan 24
@@ -34,12 +34,18 @@ Jan 31
 : [Neural Networks in NLP](https://cocoxu.github.io/CS4650_spring2022/slides/lec4-nn.pdf) 
   : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Goldberg 1-4](https://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 
+Feb 2
+: [Neural Networks in NLP (cont')](https://cocoxu.github.io/CS4650_spring2022/slides/lec4-nn.pdf) 
+  : [Eisenstein 2.6, 3.1-3.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf), [Goldberg 1-4](https://u.cs.biu.ac.il/~yogo/nnlp.pdf)
+
 Feb 3
 : **[Problem Set 1 due](https://github.com/cocoxu/CS4650_projects_sp2022/tree/master/Problem%20Set%201)**
 
-
-TBA
 : **[PyTorch Tutorial (including links to Colab notebook)](https://cocoxu.github.io/CS4650_spring2022/slides/PyTorch_tutorial.pdf)**
+
+Feb 18 
+: **[Project 1 due](https://drive.google.com/file/d/1SD2zlsbchO-jJx3YUfZAY6294OYl1Ee5/view?usp=sharing)**
+
 
 TBA
 : Sequence Models
