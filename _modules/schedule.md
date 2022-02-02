@@ -41,10 +41,15 @@ Feb 2
 Feb 3
 : **[Problem Set 1 due](https://github.com/cocoxu/CS4650_projects_sp2022/tree/master/Problem%20Set%201)**
 
-: **[PyTorch Tutorial (including links to Colab notebook)](https://cocoxu.github.io/CS4650_spring2022/slides/PyTorch_tutorial.pdf)**
+
+Feb 7
+: [Word Embeddings](https://cocoxu.github.io/CS4650_spring2022/slides/lec5-word2vec.pdf)
+  : [Eisenstein 3.3.4, 14.5, 14.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf), [Goldberg 5](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
+
 
 Feb 18 
 : **[Project 1 due](https://drive.google.com/file/d/1SD2zlsbchO-jJx3YUfZAY6294OYl1Ee5/view?usp=sharing)**
+  : [PyTorch Tutorial (including links to Colab notebook)](https://cocoxu.github.io/CS4650_spring2022/slides/PyTorch_tutorial.pdf)
 
 
 TBA
@@ -55,9 +60,6 @@ TBA
 : Conditional Random Fields
   : [Eisenstein 7.5, 8.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
-TBA
-: Word Embeddings
-  : [Eisenstein 3.3.4, 14.5, 14.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf), [Goldberg 5](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 
 TBA
 : Recurrent Neural Networks
