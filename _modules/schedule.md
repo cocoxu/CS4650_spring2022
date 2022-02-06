@@ -46,9 +46,8 @@ Feb 7
 : [Word Embeddings](https://cocoxu.github.io/CS4650_spring2022/slides/lec5-word2vec.pdf)
   : [Eisenstein 3.3.4, 14.5, 14.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf), [Goldberg 5](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 
-
-Feb 18 
-: **[Project 1 due](https://drive.google.com/file/d/1SD2zlsbchO-jJx3YUfZAY6294OYl1Ee5/view?usp=sharing)**
+Feb 22 
+: **[Project 1 due -- file updated 2/5, refresh!](https://drive.google.com/file/d/1iAuODWLdBKK8_QF6bTdUnW9WC0xLg2ql/view?usp=sharing) **
   : [PyTorch Tutorial (including links to Colab notebook)](https://cocoxu.github.io/CS4650_spring2022/slides/PyTorch_tutorial.pdf)
 
 
