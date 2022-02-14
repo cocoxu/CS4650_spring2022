@@ -47,7 +47,7 @@ Feb 7
   : [Eisenstein 3.3.4, 14.5, 14.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf), [Goldberg 5](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 
 Feb 9
-: [Sequence Models](https://cocoxu.github.io/CS4650_spring2022/slides/lec6-seq1.pdf)
+: [Sequence Models](https://cocoxu.github.io/CS4650_spring2022/slides/lec6-seq1.pdf) [[lecture note w/ correction](https://cocoxu.github.io/CS4650_spring2022/slides/lec6-seq1-notes.pdf)]
   : [Eisenstein 7.0-7.4](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 8](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
 
 Feb 11
