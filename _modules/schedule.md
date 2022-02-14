@@ -51,7 +51,7 @@ Feb 9
   : [Eisenstein 7.0-7.4](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 8](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
 
 Feb 11
-: [Conditional Random Fields](https://cocoxu.github.io/CS4650_spring2022/slides/lec7-seq2.pdf)
+: [Conditional Random Fields](https://cocoxu.github.io/CS4650_spring2022/slides/lec7-seq2.pdf) [[lecture note](https://cocoxu.github.io/CS4650_spring2022/slides/lec7-seq2-notes.pdf)] 
   : [Eisenstein 7.5, 8.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Feb 22 
