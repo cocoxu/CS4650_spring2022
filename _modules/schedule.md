@@ -41,7 +41,6 @@ Feb 2
 Feb 3
 : **[Problem Set 1 due](https://github.com/cocoxu/CS4650_projects_sp2022/tree/master/Problem%20Set%201)**
 
-
 Feb 7
 : [Word Embeddings](https://cocoxu.github.io/CS4650_spring2022/slides/lec5-word2vec.pdf)
   : [Eisenstein 3.3.4, 14.5, 14.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf), [Goldberg 5](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
@@ -50,17 +49,24 @@ Feb 9
 : [Sequence Models](https://cocoxu.github.io/CS4650_spring2022/slides/lec6-seq1.pdf) [[lecture note w/ correction](https://cocoxu.github.io/CS4650_spring2022/slides/lec6-seq1-notes.pdf)]
   : [Eisenstein 7.0-7.4](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 8](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
 
-Feb 11
+Feb 14
 : [Conditional Random Fields](https://cocoxu.github.io/CS4650_spring2022/slides/lec7-seq2.pdf) [[lecture note](https://cocoxu.github.io/CS4650_spring2022/slides/lec7-seq2-notes.pdf)] 
   : [Eisenstein 7.5, 8.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
+Feb 16
+: [Conditional Random Fields (cont')](https://cocoxu.github.io/CS4650_spring2022/slides/lec7-seq2.pdf)
+  : [Eisenstein 7.5, 8.3](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
+Feb 21
+: [Recurrent Neural Networks](https://cocoxu.github.io/CS4650_spring2022/slides/lec8-rnn.pdf)
+  : [J+M 9.2, 9.3](https://web.stanford.edu/~jurafsky/slp3/9.pdf), [Eisenstein 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Feb 22 
 : **[Project 1 due -- file updated 2/5, refresh!](https://drive.google.com/file/d/1iAuODWLdBKK8_QF6bTdUnW9WC0xLg2ql/view?usp=sharing)**
   : [PyTorch Tutorial (including links to Colab notebook)](https://cocoxu.github.io/CS4650_spring2022/slides/PyTorch_tutorial.pdf)
 
-TBA
-: Recurrent Neural Networks
-  : [J+M 9.2, 9.3](https://web.stanford.edu/~jurafsky/slp3/9.pdf), [Eisenstein 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+Mar 1
+: **[Problem Set 2 due](https://github.com/cocoxu/CS4650_projects_sp2022/tree/master/Problem%20Set%202)**
 
 TBA
 : Convolutional Neural Networks + Neural CRFs
