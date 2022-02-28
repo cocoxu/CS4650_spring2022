@@ -65,12 +65,16 @@ Feb 22
 : **[Project 1 due -- file updated 2/5, refresh!](https://drive.google.com/file/d/1iAuODWLdBKK8_QF6bTdUnW9WC0xLg2ql/view?usp=sharing)**
   : [PyTorch Tutorial (including links to Colab notebook)](https://cocoxu.github.io/CS4650_spring2022/slides/PyTorch_tutorial.pdf)
 
+Feb 23
+: [Convolutional Neural Networks + Neural CRFs](https://cocoxu.github.io/CS4650_spring2022/slides/lec9-cnn.pdf)
+  : [Eisenstein 3.4, 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)  [Goldberg 9](https://u.cs.biu.ac.il/~yogo/nnlp.pdf)
+
+Feb 28
+: no class
+
 Mar 1
 : **[Problem Set 2 due](https://github.com/cocoxu/CS4650_projects_sp2022/tree/master/Problem%20Set%202)**
 
-TBA
-: Convolutional Neural Networks + Neural CRFs
-  : [Eisenstein 3.4, 7.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)  [Goldberg 9](https://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 
 TBA
 : Statistical Machine Translation 
