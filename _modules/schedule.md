@@ -75,6 +75,9 @@ Feb 28
 Mar 1
 : **[Problem Set 2 due](https://github.com/cocoxu/CS4650_projects_sp2022/tree/master/Problem%20Set%202)**
 
+Mar 11 
+: **[Project 2 due](https://colab.research.google.com/drive/1yVBSRMw9YzwIh5fADpLs2_LnVOWuoo1a?usp=sharing)**
+
 
 TBA
 : Statistical Machine Translation 
