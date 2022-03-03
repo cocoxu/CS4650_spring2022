@@ -75,14 +75,13 @@ Feb 28
 Mar 1
 : **[Problem Set 2 due](https://github.com/cocoxu/CS4650_projects_sp2022/tree/master/Problem%20Set%202)**
 
+Mar 2
+: [Statistical Machine Translation](https://cocoxu.github.io/CS4650_spring2022/slides/lec10-mt.pdf) 
+  : [Eisenstein 18.1, 18.2](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+  
 Mar 11 
 : **[Project 2 due](https://colab.research.google.com/drive/1yVBSRMw9YzwIh5fADpLs2_LnVOWuoo1a?usp=sharing)**
 
-
-TBA
-: Statistical Machine Translation 
-  : [Eisenstein 18.1, 18.2](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
-  
 TBA
 : Encoder-Decoder Networks + Attention
   : [Eisenstein 18.3 - 18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
