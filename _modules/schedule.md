@@ -46,7 +46,7 @@ Feb 7
   : [Eisenstein 3.3.4, 14.5, 14.6](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf), [Goldberg 5](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 
 Feb 9
-: [Sequence Models](https://cocoxu.github.io/CS4650_spring2022/slides/lec6-seq1.pdf) [[lecture note w/ correction](https://cocoxu.github.io/CS4650_spring2022/slides/lec6-seq1-notes.pdf)]
+: [Sequence Models](https://cocoxu.github.io/CS4650_spring2022/slides/lec6-seq1.pdf) [[lecture note](https://cocoxu.github.io/CS4650_spring2022/slides/lec6-seq1-notes.pdf)]
   : [Eisenstein 7.0-7.4](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf), [J+M 8](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
 
 Feb 14
@@ -84,11 +84,14 @@ Mar 7
   : [Eisenstein 18.1, 18.2](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Mar 9
-: [Encoder-Decoder Networks + Attention](https://cocoxu.github.io/CS4650_spring2022/slides/lec11-seq2seq.pdf)
+: [Encoder-Decoder Networks + Attention](https://cocoxu.github.io/CS4650_spring2022/slides/lec11-seq2seq.pdf)  [[lecture note](https://cocoxu.github.io/CS4650_spring2022/slides/lec11-seq2seq-notes.pdf)] 
   : [Eisenstein 18.3 - 18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Mar 11 
 : **[Project 2 due](https://colab.research.google.com/drive/1yVBSRMw9YzwIh5fADpLs2_LnVOWuoo1a?usp=sharing)**
+
+Mar 18
+: ** Midterm due (released on Piazza/Gradescope) **
 
 TBA
 : Copy/Pointer Network + Self-Attention
