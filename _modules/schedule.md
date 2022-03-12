@@ -84,7 +84,7 @@ Mar 7
   : [Eisenstein 18.1, 18.2](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Mar 9
-: [Encoder-Decoder Networks + Attention](https://cocoxu.github.io/CS4650_spring2022/slides/lec11-seq2seq.pdf)  [[lecture note](https://cocoxu.github.io/CS4650_spring2022/slides/lec11-seq2seq-notes.pdf)] 
+: [Encoder-Decoder + Attention](https://cocoxu.github.io/CS4650_spring2022/slides/lec11-seq2seq.pdf)  [[lecture note](https://cocoxu.github.io/CS4650_spring2022/slides/lec11-seq2seq-notes.pdf)] 
   : [Eisenstein 18.3 - 18.5](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Mar 11 
