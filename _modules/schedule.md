@@ -91,7 +91,7 @@ Mar 11
 : **[Project 2 due](https://colab.research.google.com/drive/1yVBSRMw9YzwIh5fADpLs2_LnVOWuoo1a?usp=sharing)**
 
 Mar 18
-: ** Midterm due (released on Piazza/Gradescope) **
+: **Midterm due (released on Piazza/Gradescope)**
 
 TBA
 : Copy/Pointer Network + Self-Attention
