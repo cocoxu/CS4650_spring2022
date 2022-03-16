@@ -90,16 +90,25 @@ Mar 9
 Mar 11 
 : **[Project 2 due](https://colab.research.google.com/drive/1yVBSRMw9YzwIh5fADpLs2_LnVOWuoo1a?usp=sharing)**
 
+March 14
+: [Copy/Pointer Network + Transformer](https://cocoxu.github.io/CS4650_spring2022/slides/lec12-seq2seq2.pdf) 
+  : [Vaswani+17 Transformers](https://arxiv.org/pdf/1706.03762.pdf), [Alammar's blog post](http://jalammar.github.io/illustrated-transformer/), [Rush's tutorial](http://jalammar.github.io/illustrated-transformer/) 
+
+March 16
+: [Transformer (cont') + Course Project](https://cocoxu.github.io/CS4650_spring2022/slides/lec13-seq2seq3-project.pdf) 
+  : [Holtzman+19 Degeneration](https://arxiv.org/pdf/1904.09751.pdf)
+  
 Mar 18
 : **Midterm due (released on Piazza/Gradescope)**
 
-TBA
-: Copy/Pointer Network + Self-Attention
-  : [Holtzman+19 Degeneration](https://arxiv.org/pdf/1904.09751.pdf), [Vaswani+17 Transformers](https://arxiv.org/pdf/1706.03762.pdf)
+Mar 21
+: no class - spring break
 
-TBA
-: Transformer + Course Project
-  : [Alammar's blog post](http://jalammar.github.io/illustrated-transformer/), [Rush's tutorial](http://jalammar.github.io/illustrated-transformer/) 
+Mar 23
+: no class - spring break
+
+Apr 5 
+: **[Project 3 due](https://colab.research.google.com/drive/10tZpWMf6U-mX69qsGciMFD8AXLVxqCe3?usp=sharing)**
 
 TBA
 : Information Extraction + Semantic Role Labeling
