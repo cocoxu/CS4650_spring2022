@@ -107,15 +107,15 @@ Mar 21
 Mar 23
 : no class - spring break
 
-Mar 29
+Mar 28
 : [Information Extraction + Semantic Role Labeling](https://cocoxu.github.io/CS4650_spring2022/slides/lec14-iesrl.pdf) 
   : [Eisenstein Chapters 13 & 17](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 Apr 5 
 : **[Project 3 due](https://colab.research.google.com/drive/10tZpWMf6U-mX69qsGciMFD8AXLVxqCe3?usp=sharing)**
 
-TBA
-: Pretrained Language Models
+Mar 30
+: [Pretrained Language Models](https://cocoxu.github.io/CS4650_spring2022/slides/lec15-pt1.pdf)
   : [ELMo](https://www.aclweb.org/anthology/N18-1202.pdf) [BERT](https://www.aclweb.org/anthology/N19-1423.pdf)
 
 TBA
