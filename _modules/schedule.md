@@ -122,8 +122,8 @@ Apr 4
 Apr 5 
 : **[Project 3 due](https://colab.research.google.com/drive/10tZpWMf6U-mX69qsGciMFD8AXLVxqCe3?usp=sharing)**
 
-TBA
-: Dialogue
+Apr 6
+: [Dialogue](https://cocoxu.github.io/CS4650_spring2022/slides/lec17-dialogue.pdf)
   : [J+M Chapter 24](https://web.stanford.edu/~jurafsky/slp3/24.pdf)
 
 TBA
