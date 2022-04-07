@@ -124,7 +124,7 @@ Apr 5
 
 Apr 6
 : [Dialogue](https://cocoxu.github.io/CS4650_spring2022/slides/lec17-dialogue.pdf)
-  : [J+M Chapter 24](https://web.stanford.edu/~jurafsky/slp3/24.pdf)
+  : [J+M Chapter 24](https://web.stanford.edu/~jurafsky/slp3/24.pdf), [Wizard of Wikipedia](https://arxiv.org/pdf/1811.01241.pdf) 
 
 TBA
 : Question Answering 
