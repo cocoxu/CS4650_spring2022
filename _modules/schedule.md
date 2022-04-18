@@ -126,10 +126,16 @@ Apr 6
 : [Dialogue](https://cocoxu.github.io/CS4650_spring2022/slides/lec17-dialogue.pdf)
   : [J+M Chapter 24](https://web.stanford.edu/~jurafsky/slp3/24.pdf), [Wizard of Wikipedia](https://arxiv.org/pdf/1811.01241.pdf) 
 
-TBA
-: Question Answering 
+Apr 11
+: [Question Answering](https://cocoxu.github.io/CS4650_spring2022/slides/lec18-qa.pdf) 
   : [J+M Chapter 23](https://web.stanford.edu/~jurafsky/slp3/23.pdf)
 
+Apr 13
+: Guest Lecture by Luheng He (Google Research)
+
+Apr 18
+: [Multilingual / Cross-lingual Models](https://cocoxu.github.io/CS4650_spring2022/slides/lec19-multilingual.pdf)
+  : [XLM-RoBERTa](https://arxiv.org/pdf/1911.02116.pdf)
 
 Apr 29
 : Final Project Reports Due (submit on Gradescope - no late days allowed)
